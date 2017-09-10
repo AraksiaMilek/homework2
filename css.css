@@ -1,0 +1,57 @@
+
+* {
+
+	background-color: black;
+
+}
+
+.heading {
+
+	font-weight: bold;
+	color: rgb(255,0,102);
+	font-family: "trebuchet MS", helvetica, sans-serif;
+	text-align: center;
+	border: 5px double rgba(255,0,102,0.3);
+	text-transform: uppercase;
+	padding-left: 1px;
+	padding-right: 1px;
+
+}
+
+ul {
+
+font-weight: italic;
+color: white;
+font-family: "comic sans MS", cursive, sans-serif;
+text-align: center;
+
+}
+
+h6 {
+
+	color: aqua;
+	font-weight: italic;
+	text-align: center;
+
+}
+
+img {
+
+	display: block;
+	margin: 0px auto;
+}
+
+.paragraph {
+
+font-weight: bold;
+color: hsl(330, 100%, 80%);
+font-family: "comic sans MS", cursive, sans-serif;
+text-align: center;
+
+}
+
+a {
+
+
+	font-size: 11px;
+}
